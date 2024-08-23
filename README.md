@@ -37,6 +37,8 @@ logic(): Updates the game state, including snake movement, collision detection, 
 Dependencies
 This project requires a C++ compiler that supports the <conio.h> header, which is commonly available on Windows. For non-Windows platforms, alternative libraries or modifications might be necessary to handle keyboard input.
 
+For Code head towards this link: https://github.com/Pawanthakur8273/Snake-and-leader
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
